@@ -10,7 +10,7 @@ An image based AI system for automated early detection of lumpy skin disease to 
 3) Under the 3rd section, i.e., **3. Same test, using the ONNX model hosted on GitHub**, run the two code cells consecutively.
 
 ### Test using a local machine
-1) Download the following files and folder to your local machine : a) `convnext_cattle_best.onnx`; b) `test_onnx.py` (located inside the **scripts** directory); c) **test_images** folder
+1) Download the following files and folder to your local machine : a) `convnext_cattle_best.onnx`; <br />b) `test_onnx.py` (located inside the **scripts** directory); <br />c) **test_images** folder
 2) Install a code editor like Visual Studio Code.
 3) Install Python 3.
 4) Install the following Python packages: json, numpy, pillow, onnxruntime.
