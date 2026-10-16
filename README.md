@@ -1,4 +1,5 @@
-# <img width="372.5" height="125" alt="image" src="https://github.com/user-attachments/assets/c522e010-1377-452c-b6ca-f4e266df1385" />
+# <img width="372.5" height="125" alt="image" src="https://github.com/user-attachments/assets/86a557c2-3023-474f-89a7-38cc547a9212" />
+
 
 An image based AI system for automated early detection of lumpy skin disease to save lives and secure rural family wealth.
 
