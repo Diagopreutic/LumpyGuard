@@ -8,7 +8,9 @@ An image based AI system for automated early detection of lumpy skin disease to 
 ### Test using Google Colab
 1) Upload the file `test_ConvNeXt_ONNX_Colab.ipynb` (located inside the **scripts** folder) to a Google Drive account.
 2) Open the file using Google Colab.
-3) Under the 3rd section, i.e., **3. Same test, using the ONNX model hosted on GitHub**, run the two code cells consecutively.
+3) Run the code cell under the 3rd section, i.e., **3. Load the ONNX model from GitHub (run once)**.
+4) Under the 4th section, i.e., **4. Test images from any link or path (re-run freely)**, update the file paths __**/content/drive/MyDrive/...**__.
+5) Save and run the two code cells.
 
 ### Test using a local machine
 1) Download the following files and folder to your local machine : <br />a) `convnext_cattle_best.onnx` <br />b) `test_onnx.py` (located inside the **scripts** directory) <br />c) **test_images** folder
